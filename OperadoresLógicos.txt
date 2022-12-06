@@ -1,0 +1,6 @@
+< - Menor
+> - Maior
+&& - E
+|| - Ou
+! - Não
+!== - Diferente
